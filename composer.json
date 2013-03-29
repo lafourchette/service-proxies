@@ -2,7 +2,7 @@
     "name": "php-peru/service-proxies",
     "require": {
         "php": ">=5.3.0",
-        "doctrine/common": "dev-DCOM-96",
+        "doctrine/common": "2.4.*",
         "pimple/pimple": "*",
         "raulfraile/ladybug": "*"
     },
